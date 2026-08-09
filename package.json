@@ -1,0 +1,13 @@
+{
+  "name": "chat-triple-a-policy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CHAT TRIPLE A privacy and cookie policy page",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
